@@ -26,7 +26,7 @@
 
 
   [1]: https://fly.ahblog.net/jian.png
-  [2]: https://fly.ahblog.net/jianphone.jpg
+  
   [3]: https://fly.ahblog.net/TIM%E5%9B%BE%E7%89%8720191019212315.png
   [4]: https://github.com/AHQAQ/jianhe
   [5]: https://github.com/AHQAQ/ConciseThemes

@@ -33,7 +33,7 @@
     		</p>
             <?php endif; ?>
     		<p>
-                <textarea rows="8" cols="50" name="text" id="textarea" class="textarea" required placeholder="快来喷博主吧~（大雾"><?php $this->remember('text'); ?></textarea>
+                <textarea rows="8" cols="50" name="text" id="textarea" class="textarea" required placeholder="请输入评论内容.."><?php $this->remember('text'); ?></textarea>
             </p>
     		<p>
                 <button type="submit" class="submit"><?php _e('评论'); ?></button>
